@@ -1,0 +1,24 @@
+{
+  "Alunos": [
+    {
+      "id": 1,
+      "nome": "Gabriel Merino",
+      "email": "gabrielmerino.dev@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Marcelo Cogô",
+      "email": "marcelo@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "jefferson marques",
+      "email": "JFmarquers@gmail.com"
+    },
+    {
+      "nome": "Marina",
+      "email": "marinatrindade@hotmail.com",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+
+*{
+    font-family: 'Graduate', cursive;
+    font-size: 12px;
+}
+.nav{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    padding: 12px;
+
+}
+
+.nav h1{
+    font-size: 20px;
+}
+
+span{
+    color: gold;
+    font-family: 'Graduate', cursive;
+    font-size: 30px;
+}
+
+
+/* TABELA PROCURA ALUNO*/
+
+
+.card-header{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
